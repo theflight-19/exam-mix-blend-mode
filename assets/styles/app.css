@@ -45,7 +45,7 @@ main {
   height: 100vh;
   background-position: center;
   background-size: cover;
-  background-image: url('./images/acer.jpg');
+  background-image: url('../images/acer.jpg');
 }
 .ad-video {
   overflow: hidden;
